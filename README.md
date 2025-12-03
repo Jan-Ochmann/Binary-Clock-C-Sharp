@@ -1,5 +1,8 @@
 # C Sharp Konsolenapp Binary Clock
 
+Eine Zeitanzeige in Binärcode, die über die Konsole ausgegeben wird. 
+Grundkonstrukt implementierbar als App. (Maui). 
+
 <img width="476" height="490" alt="image" src="https://github.com/user-attachments/assets/59bc2187-63ef-4f01-925a-e9dbabfc46b7" />
 
 ```
